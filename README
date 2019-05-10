@@ -1,0 +1,21 @@
+Metasploit Module Collection
+
+Usage:
+- Load this repository with
+  loadpath <this-directory>/modules
+
+
+
+++ JMX/RMI/JRMP Scanner/Exploits ++
+
+exploit/multi/java/rmi_server
+scanner/java/rmi_scanner
+
+Prerequesites: 
+- lib/java needs to point to a copy of ruby-serialize library
+
+
+
+
+
+
